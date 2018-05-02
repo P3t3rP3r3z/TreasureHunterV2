@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TreasureHunter2</string>
+    <string name="message_write_error">Error Writing Message !</string>
+    <string name="message_write_success">Successfully written to Chip !</string>
+    <string name="message_write_progress">Writing to Chip.</string>
+    <string name="message_tag_detected">NFC Chip Detected !</string>
+    <string name="message_read_tag">Touch Your Clue Chip!</string>
+    <string name="message_write_tag">Write New Clue Chip</string>
+    <string name="message_tap_tag">Tap the Clue Chip to your device!</string>
+    <string name="hint_message">Message</string>
+    <string name="welcome_screen1">Ready to Play? \n
+                 Select Scan to Start on Your First Clue! \n or \n Enter
+                 A Clue Below\nto Create A New Game</string>
+    <string name="welcome_screen2">Touch Scan Button to Start the First Clue</string>
+
+</resources>
+
